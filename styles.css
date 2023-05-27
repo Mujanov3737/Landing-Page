@@ -148,3 +148,8 @@ button.sign-up {
 .footer-text {
     padding: 0 64px;
 }
+
+.title-text {
+    font-size: 24px;
+    font-weight: 700;
+}
