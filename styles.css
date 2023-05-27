@@ -41,6 +41,9 @@ img {
     text-align: left;
 }
 
+.header-logo {
+    min-width: 200px;
+}
 .header-links{
     list-style: none;
     display: flex;
